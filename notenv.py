@@ -1,1 +1,4 @@
-SECRET_CODE=fjeriafawpfoskzfserpoferksf
+import secretCode from .env
+
+if secretCode:
+    fehjfopawe
